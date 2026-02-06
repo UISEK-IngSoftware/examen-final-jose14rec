@@ -2,7 +2,7 @@
 # Examen Final - Aplicación Ionic Futurama
 
 ## Datos del estudiantes
-- Nombre: ______________________
+- Nombre: Jose Alejandro Recalde Acuña
 
 ## 📋 Objetivo
 
